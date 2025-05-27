@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Pixel Art & Sprite Generator",
+  "description": "Generates various types of pixel art, including single images, tilemaps, and animation sprite sheets, using Imagen. Describe what you want, e.g., 'a knight sprite sheet, 4 frames', 'a cyberpunk cityscape', 'an icon for a health potion'.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
